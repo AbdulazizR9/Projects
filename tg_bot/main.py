@@ -8,4 +8,7 @@ not use already available ai or some bots in telegramm, but firstly
 I wanna review my python, and also begin to learn ai, and machine learning
 and i think i can just do as pet-project at least, and it will be open-source tool
 
+
+Firstly my project will focus only on CS community, it is primary goal, get information
+about current situation of the student and build roadmap.
 """
